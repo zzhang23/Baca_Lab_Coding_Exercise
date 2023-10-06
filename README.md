@@ -37,7 +37,7 @@ for file in tagAlign/*; do
 done
 ```
 
-## Step3 Data Conversion for DownStream Analysis
+## Step3 Data Conversion for Downstream Analysis
 * Covert .tagAlign files in *tagAlign* folder to .bed files and stored them in *convertedBED* folder.
 ```
 source_dir="tagAlign"
